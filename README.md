@@ -12,7 +12,7 @@ In my 2nd attempt, I decided to reduce the number of features, but instead make 
 
 # Visuals
 
-Below is the heatmap over all the different neurals within the input Neural netowrk. It tracks the activations across all the differnt input text strings.
+Below is the heatmap over all the different neurals within the input Neural netowrk. It tracks the activations across all the differnt input text  strings.
 
 
 <img src="/images/polysemantic_heatmap.png" width="75%">
